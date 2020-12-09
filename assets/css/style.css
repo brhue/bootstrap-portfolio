@@ -2,3 +2,12 @@ body {
   background-image: url('../images/background.png');
   background-repeat: repeat;
 }
+
+footer {
+  border-top-width: 6px;
+  border-top-style: solid;
+}
+
+.serif {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
